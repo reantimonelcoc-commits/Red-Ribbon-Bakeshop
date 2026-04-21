@@ -1,5 +1,3 @@
-# Red-Ribbon-Bakeshop
-
 <!DOCTYPE html>
 <html>
 <head>
